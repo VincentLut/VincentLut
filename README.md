@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Vincent and I'm currently a student at the University of Rostock. Yet, there's nothing here to see :)  
 <!--
 **VincentLut/VincentLut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
